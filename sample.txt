@@ -1,0 +1,34 @@
+sample_sentence = ' Person 1: Are there theatres in town? Person 2: '
+
+
+Person 1: Are there theatres in town?
+Person 2: : There are four theatres in town. Do you have a preference? 
+Person 1: No, but I would like the one in the south. 
+Person 2: I would recommend the Junction. It is located at Clifton Way. Their phone number is 01223511511. 
+Person 1: Okay, thanks! That's all I need. 
+Person 2: Thank you for using our services. Have a good day!Bye.
+
+
+
+
+
+sample_sentence = ' Person 1: Is there a hospital nearby? Person 2: '
+
+
+Person 1: Is there a hospital nearby?
+Person 2: : Addensbrookes Hospital is located at Hills Rd, Cambridge, postcode CB20QQ. Do you need a particular department? 
+Person 1: No, I just need the phone number, please. 
+Person 2: The phone number is 01223245151. Do you need the main phone number? 
+Person 1: No, that's all I needed. Thank you! 
+
+
+sample_sentence = ' Person 1: Can you book a taxi? Person 2: '
+
+Person 1: Can you book a taxi?
+Person 2: : I sure can. When would you like to leave? 
+Person 1: I need to leave after 13:00. 
+Person 2: I have booked you a taxi. The car is a white ford and the contact number is 07827592183. 
+Person 1: Thank you for your help. 
+Person 2: You're welcome. Have a good day.m. Goodbye.
+Person 1: Thank you for your help. 
+Person 2: You're welcomenext time 
